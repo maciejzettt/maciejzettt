@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maciejzettt
-- 👀 I’m interested in becoming a python programmer 
-- 🌱 I’m currently learning API programming
+- 👀 I’m interested in becoming a web developer 
+- 🌱 I’m currently learning React/Next.js
 - 💞️ I’m looking to collaborate with people willing to introduce me to some valuable concepts
 - 📫 How to reach me? Just write: maciejzetor@gmail.com
 
