@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @maciejzettt
-- 👀 I’m interested in becoming a web developer 
-- 🌱 I’m currently learning React/Next.js
+- ⚗️ I'm an academic teacher at AMU, Poznan, Poland
+- 👀 I’m interested in web development
+- 🌱 I’m currently much into Svelte
 - 💞️ I’m looking to collaborate with people willing to introduce me to some valuable concepts
 - 📫 How to reach me? Just write: maciejzetor@gmail.com
 
